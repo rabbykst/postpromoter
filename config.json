@@ -19,7 +19,7 @@
     "active": true,
     "to_account": "fazlayrabby",
     "execute_time": 20,
-    "memo": "#Today generated SBD - {balance} | Thank you."
+    "memo": "Today generated SBD - {balance} | Thank you."
   },
   "api": {
     "enabled": true,
