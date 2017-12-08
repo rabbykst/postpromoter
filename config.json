@@ -1,12 +1,12 @@
 {
   "disabled_mode": false,
-  "account": "your_bot_account_name",
-  "memo_key": "your_private_memo_key",
-  "posting_key": "your_private_posting_key",
-  "active_key": "your_private_active_key",
+  "account": "jonbee",
+  "memo_key": "5Jywu57XyMizUUmXWCV9m49wGnRRGZA4cyYv6SZxuSjQZ8FDgSW",
+  "posting_key": "5JUugkHtuv1DcaavbAoeuxCraPzKRhmvfgjrwiEPYGJdCsW3qA9",
+  "active_key": "5JaayKFn62Y76Z8C61ccr3P4h8FRTampjkZnayfxduEuAjRRd9L",
   "auto_claim_rewards" : true,
-  "min_bid": 0.1,
-  "max_bid": 999,
+  "min_bid": 0.01,
+  "max_bid": 0.09,
   "batch_vote_weight": 100,
   "max_post_age": 144,
   "allow_comments": true,
@@ -17,7 +17,7 @@
   "promotion_content": "You got a {weight}% upvote from @{botname} courtesy of @{sender}!",
   "auto_withdrawal": {
     "active": true,
-    "to_account": "account_to_receive",
+    "to_account": "fazlayrabby",
     "execute_time": 20,
     "memo": "#Today generated SBD - {balance} | Thank you."
   },
